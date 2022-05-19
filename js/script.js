@@ -1,5 +1,5 @@
 // Redirect Automatic
 
-/* setTimeout(function() {
+setTimeout(function() {
     window.location.href = "http://www.vollpilates.com.br";
-}, 15000); */
+}, 15000);
